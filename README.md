@@ -5,7 +5,7 @@ It simply calls the api and dumps the JSON back.
 
 ## Usage
 ```javascript
-import nordtoy.NordAPI;
+import nordapi.NordAPI;
 
 NordAPI api = new NordAPI();
 
