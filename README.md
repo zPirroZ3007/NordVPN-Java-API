@@ -3,7 +3,7 @@ Just a simple Java API that permits to call NordVPN API
 
 It simply calls the api and dumps the JSON back.
 
-##Usage
+## Usage
 ```javascript
 import nordtoy.NordAPI;
 
